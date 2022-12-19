@@ -5,3 +5,6 @@
 <p>
 <h2> 3° PASSO - COM TODAS AS DEPENDENCIAS INSTALADAS AGORA RODE O SEGUINTE COMANDO: npm start</h2>
 </p>
+<p>
+<h3>CASO QUEIRA VER A APLICAÇÃO DE QUALQUER LUGAR EM QUALQUER DISPOSITIVO:  https://oliveiratradeoficial.netlify.app/</h3>
+</p>
